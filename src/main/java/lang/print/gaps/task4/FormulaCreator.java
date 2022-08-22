@@ -5,5 +5,6 @@ public class FormulaCreator {
         byte a = 15;
         byte b = 20;
         int c = ((9*a*a - 5*b + 2 + a - 7) * ((a+b - 4*a*b)/2));
+        System.out.println(c);
     }
 }
